@@ -1,0 +1,40 @@
+{
+  "figures": {
+    "ticker": "AAPL",
+    "company_name": "Apple Inc.",
+    "currency": "USD",
+    "retrieval_time": "2026-11-16T09:59:06.624717Z",
+    "source": "yfinance",
+    "period_type": "annual",
+    "revenue": 478834000000.0,
+    "gross_profit": 233602000000.0,
+    "operating_income": 158063000000.0,
+    "net_income": 132175000000.0,
+    "interest_expense": NaN,
+    "income_period": "2026-09-30 00:00:00",
+    "total_assets": 404548000000.0,
+    "total_equity": 112093000000.0,
+    "current_assets": 173857000000.0,
+    "current_liabilities": 169915000000.0,
+    "total_debt": 80111000000.0,
+    "cash": 36305000000.0,
+    "balance_period": "2026-09-30 00:00:00",
+    "units": "full currency units (not thousands or millions)",
+    "unit_warning": "Verify against company filings; yfinance may scale differently by company."
+  },
+  "ratios": {
+    "gross_margin": 0.48785591666423017,
+    "operating_margin": 0.3300997840587761,
+    "net_margin": 0.27603511864236874,
+    "roe": 1.17915480895328,
+    "roa": 0.3267226633180735,
+    "current_ratio": 1.0231998352117235,
+    "debt_to_equity": 0.7146833432952995,
+    "interest_coverage": NaN
+  },
+  "notes": [
+    "All figures from latest annual period available via yfinance.",
+    "Missing values are omitted or null.",
+    "Always cross-check critical figures with official filings."
+  ]
+}

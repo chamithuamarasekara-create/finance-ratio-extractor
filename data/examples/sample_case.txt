@@ -1,0 +1,3 @@
+Example case:
+Ticker: AAPL
+Output folder: outputs/aapl_run1
