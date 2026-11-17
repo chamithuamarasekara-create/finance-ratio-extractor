@@ -110,5 +110,6 @@ https://github.com/openJiuwen-ai/jiuwenswarm
 
 \## Public project version
 
-\[Paste the exact GitHub commit URL here after you push]
+https://github.com/chamithuamarasekara-create/finance-ratio-extractor/commit/1049697fa450c7d380a59a995c1a3917083b91d3
+
 
